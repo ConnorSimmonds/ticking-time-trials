@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\kaitl\\Documents\\Unreal Projects\\ticking-time-trials\\TickingTimeTrials\\Source\\TickingTimeTrials\\TickingTimeTrials.Build.cs",
+		"C:\\Users\\kaitl\\Documents\\Unreal Projects\\ticking-time-trials\\TickingTimeTrials\\Source\\TickingTimeTrials.Target.cs",
+		"C:\\Users\\kaitl\\Documents\\Unreal Projects\\ticking-time-trials\\TickingTimeTrials\\Source\\TickingTimeTrialsEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

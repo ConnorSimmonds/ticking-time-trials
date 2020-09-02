@@ -1,0 +1,2 @@
+C:\Users\kaitl\Documents\Unreal Projects\ticking-time-trials\TickingTimeTrials\Intermediate\Build\Win64\UE4Editor\Development\TickingTimeTrials\Definitions.TickingTimeTrials.h
+C:\Users\kaitl\Documents\Unreal Projects\ticking-time-trials\TickingTimeTrials\Source\TickingTimeTrials\TickingTimeTrials.h

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TickingTimeTrials.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{72D525E2-CB67-4BD3-A5D2-43DDC5FE032A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TickingTimeTrials.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TickingTimeTrialsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{718A5A50-8743-4593-8FB0-9F7CC09DA630}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TickingTimeTrials">
+      <UniqueIdentifier>{106E8C9E-E8E5-43B3-8C3A-E5DA489E8ADB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TickingTimeTrials\TickingTimeTrials.Build.cs">
+      <Filter>Source\TickingTimeTrials</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TickingTimeTrials\TickingTimeTrials.cpp">
+      <Filter>Source\TickingTimeTrials</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TickingTimeTrials\TickingTimeTrials.h">
+      <Filter>Source\TickingTimeTrials</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TickingTimeTrials\TickingTimeTrialsCharacter.cpp">
+      <Filter>Source\TickingTimeTrials</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TickingTimeTrials\TickingTimeTrialsCharacter.h">
+      <Filter>Source\TickingTimeTrials</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TickingTimeTrials\TickingTimeTrialsGameMode.cpp">
+      <Filter>Source\TickingTimeTrials</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TickingTimeTrials\TickingTimeTrialsGameMode.h">
+      <Filter>Source\TickingTimeTrials</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
