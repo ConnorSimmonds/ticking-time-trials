@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TickingTimeTrials.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{72D525E2-CB67-4BD3-A5D2-43DDC5FE032A}</UniqueIdentifier>
+      <UniqueIdentifier>{C4405C4E-4917-44E5-9380-EC9B2EC3CFD6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TickingTimeTrials.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{718A5A50-8743-4593-8FB0-9F7CC09DA630}</UniqueIdentifier>
+      <UniqueIdentifier>{5FC36051-093D-4C58-A723-65DEEC84A05F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TickingTimeTrials">
-      <UniqueIdentifier>{106E8C9E-E8E5-43B3-8C3A-E5DA489E8ADB}</UniqueIdentifier>
+      <UniqueIdentifier>{7383DE7E-3B51-44E4-BF68-62B624A965BD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TickingTimeTrials\TickingTimeTrials.Build.cs">
       <Filter>Source\TickingTimeTrials</Filter>
