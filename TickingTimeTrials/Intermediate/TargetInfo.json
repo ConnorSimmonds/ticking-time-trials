@@ -1,14 +1,4 @@
 {
 	"Targets": [
-		{
-			"Name": "TickingTimeTrials",
-			"Path": "C:\\Users\\kaitl\\Documents\\Unreal Projects\\ticking-time-trials\\TickingTimeTrials\\Source\\TickingTimeTrials.Target.cs",
-			"Type": "Game"
-		},
-		{
-			"Name": "TickingTimeTrialsEditor",
-			"Path": "C:\\Users\\kaitl\\Documents\\Unreal Projects\\ticking-time-trials\\TickingTimeTrials\\Source\\TickingTimeTrialsEditor.Target.cs",
-			"Type": "Editor"
-		}
 	]
 }
