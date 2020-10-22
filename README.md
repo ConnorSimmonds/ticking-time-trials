@@ -3,7 +3,7 @@ The game is an momentum-platformer. You gain money within the levels, and use th
 
 There's only one set of levels in our game currently, but this can be extended.
 
-## Resources and Assets Uses
+## Resources and Assets Used
 
 [Sonic Physics Guide](http://info.sonicretro.org/Sonic_Physics_Guide)
 
