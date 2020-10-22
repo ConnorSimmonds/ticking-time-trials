@@ -6,8 +6,11 @@ There's only one set of levels in our game currently, but this can be extended.
 ## Resources and Assets Uses
 
 [Sonic Physics Guide](http://info.sonicretro.org/Sonic_Physics_Guide)
+
 [Sonic Unreal Worlds](https://github.com/StreakThunderstorm/Sonic-Unreal-Worlds)
+
 [Menu Music - Foxy Jumper](https://www.youtube.com/watch?v=xK4SPR2DT3k)
+
 [Level Music - Aquaslash & Pals](http://info.sonicretro.org/Aquaslash_%26_Pals)
 
 
